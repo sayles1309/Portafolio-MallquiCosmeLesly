@@ -1,73 +1,30 @@
-# Welcome to your Lovable project
+# Portafolio - Desarrollo de Aplicaciones Web
 
-## Project info
+Portafolio academico del curso **Desarrollo de Aplicaciones Web** (UNCP).  
+Incluye una pagina principal (presentacion), seccion **Cuaderno** con el registro de actividades/semana, seccion **Sobre Mi** y un formulario/seccion de **Contacto**.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Vista general
+Este proyecto reune evidencias del curso: practicas, trabajos en equipo y evaluaciones, aplicando maquetacion web, estilos responsivos y buenas practicas de estructura de proyecto.
 
-## How can I edit this code?
+## Secciones
+- **Inicio:** presentacion personal y accesos rapidos (CV / Contacto).
+- **Cuaderno:** resumen por semanas (temas, practica, reflexion y bibliografia).
+- **Sobre Mi:** informacion academica y habilidades.
+- **Contactame:** medios de contacto y/o formulario.
 
-There are several ways of editing your application.
+## Tecnologias
+- HTML5
+- CSS3
+- JavaScript
+- [Tailwind CSS / Bootstrap] (segun tu proyecto)
+- Git / GitHub (ramas, merges, control de versiones)
 
-**Use Lovable**
+## Contenido del cuaderno (resumen)
+El cuaderno se organiza por semanas e incluye:
+- Temas aprendidos (definiciones y procedimientos)
+- Practica / evidencias (capturas del PDF o resultados)
+- Reflexion: Que aprendi y como aprendi
+- Bibliografia (links de apoyo)
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+> Nota: Las imagenes usadas como evidencia se agregan en la seccion Cuaderno.
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
