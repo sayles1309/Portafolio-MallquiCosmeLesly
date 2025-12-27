@@ -31,14 +31,13 @@ const HeroSection = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
-              <Button variant="hero" size="xl">
-                <Download className="mr-2" />
-                Descargar CV
-              </Button>
-              <Button variant="outline" size="xl">
-                <Mail className="mr-2" />
-                Contáctame
-              </Button>
+              <Button variant="hero" size="xl" asChild>
+  <a href="/CV_Mallqui_Cosme_Lesly.pdf" download>
+    <Download className="mr-2" />
+    Descargar CV
+  </a>
+</Button>
+
             </div>
           </div>
 
